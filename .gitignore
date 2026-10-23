@@ -1,0 +1,8 @@
+# Build output (recreated by build.bat)
+.venv/
+build/
+dist/
+icon.ico
+
+__pycache__/
+*.py[cod]
